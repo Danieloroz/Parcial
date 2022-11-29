@@ -54,7 +54,7 @@ console.log("Estas son las estadisticas de cada uno de los modulos de atención"
 
 console.log("la cantidad total de clientes atendidos fue de: ", contBancolombia + contOtros + contTeleBancolombia + contTeleOtros)
 
-console.log("La catidad de clientes de Bancolombia atendidos por vía telefonica es de:", contTeleBancolombia);
-console.log("La catidad de clientes de Bancolombia atendidos por cubiculo es de: ", contBancolombia);
-console.log("La catidad de clientes de otros bancos atendidos por vía telefonica es de: ", contTeleOtros);
-console.log("La catidad de clientes de otros bancos atendidos por cubiculo es de: ", contOtros);
+console.log("La cantidad de clientes de Bancolombia atendidos por vía telefonica es de:", contTeleBancolombia);
+console.log("La cantidad de clientes de Bancolombia atendidos por cubiculo es de: ", contBancolombia);
+console.log("La cantidad de clientes de otros bancos atendidos por vía telefonica es de: ", contTeleOtros);
+console.log("La cantidad de clientes de otros bancos atendidos por cubiculo es de: ", contOtros);
